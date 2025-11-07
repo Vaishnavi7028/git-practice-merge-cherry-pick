@@ -1,1 +1,5 @@
+ HEAD
 Initial version
+
+Feature A change
+feature-A
